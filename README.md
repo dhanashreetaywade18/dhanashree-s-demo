@@ -1,4 +1,4 @@
-# project-1-band-name-generator-
+# dhanashree's demo
 This is my first python project.
 <br>
 Author : Dhanashree Taywade
